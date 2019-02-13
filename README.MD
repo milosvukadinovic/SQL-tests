@@ -1,4 +1,4 @@
-# Testing SQL tests from [@SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+# Testing SQL from [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 
 #### Contributors:
